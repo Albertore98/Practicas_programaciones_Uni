@@ -1,0 +1,33 @@
+library ieee;
+
+use ieee.std_logic_1164.all;
+
+
+entity tbmux21 is
+end tbmux21;
+
+
+
+
+architecture ar_tbmux21 of tbmux21 is
+
+signal b1 : std_logic:= '0';
+signal b2:std_logic:='0';
+signal seleccion: std_logic:='0';
+
+signal salida : std_logic;
+
+
+begin
+
+muxprueba : entity work.mux21 port map (primero => b1, segundo => b2,selector=> seleccion, resultado=> salida);
+
+b1 <= not b1 after 10 ns;
+
+b2 <= not b2 after 20 ns;
+
+seleccion <= not seleccion after 40 ns;
+
+
+
+end ar_tbmux21;

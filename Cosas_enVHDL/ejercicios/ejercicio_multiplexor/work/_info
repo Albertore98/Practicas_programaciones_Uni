@@ -1,0 +1,178 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor
+Emux21
+Z1 w1699274334
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux21.vhd
+Z5 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux21.vhd
+l0
+L6 1
+VXdLFE;MXJMmzi?VNmdgGZ2
+!s100 EF27_MRef?TX^_0:CAbi53
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1699274339
+!i10b 1
+Z8 !s108 1699274339.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux21.vhd|
+Z10 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux21.vhd|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Aar_mux21
+R2
+R3
+Z13 DEx4 work 5 mux21 0 22 XdLFE;MXJMmzi?VNmdgGZ2
+!i122 0
+l23
+L19 10
+VFPEWj0aaLXJ[GI;O<oA?Z0
+!s100 2VBbOJk`Ti=PDBaT30^Nz1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux41
+Z14 w1699280172
+R2
+R3
+!i122 9
+R0
+Z15 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux41.vhd
+Z16 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux41.vhd
+l0
+L5 1
+Vnh?M3?JcgYQnYjRhL_2Z:3
+!s100 `gLk;H[RYK5j:l7YM2Mg72
+R6
+32
+Z17 !s110 1699280177
+!i10b 1
+Z18 !s108 1699280177.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux41.vhd|
+Z20 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/mux41.vhd|
+!i113 1
+R11
+R12
+Aar_mux41
+R13
+R2
+R3
+Z21 DEx4 work 5 mux41 0 22 nh?M3?JcgYQnYjRhL_2Z:3
+!i122 9
+l20
+L16 13
+V92UT`Mb4z1HVFSH;:FXT_2
+!s100 ?A1LUPAI@O]BXVUDmj3Ak0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Etbmux21
+Z22 w1699277422
+R2
+R3
+!i122 7
+R0
+Z23 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux21.vhd
+Z24 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux21.vhd
+l0
+L6 1
+VEAR?@9aTLBzUh8?GPjo_82
+!s100 3RVHk[@MH^3acEd3o=0:_2
+R6
+32
+Z25 !s110 1699277432
+!i10b 1
+Z26 !s108 1699277432.000000
+Z27 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux21.vhd|
+Z28 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux21.vhd|
+!i113 1
+R11
+R12
+Aar_tbmux21
+R13
+R2
+R3
+DEx4 work 7 tbmux21 0 22 EAR?@9aTLBzUh8?GPjo_82
+!i122 7
+l21
+L12 22
+Vb51GG2>^ZQEkM7a`6dnck2
+!s100 aj[8VJQTQaVzY1405SS8c0
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R11
+R12
+Etbmux41
+Z29 w1699280642
+R2
+R3
+!i122 13
+R0
+Z30 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux41.vhd
+Z31 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux41.vhd
+l0
+L5 1
+VV??FMOzo_XJKEY3^=HR?O0
+!s100 nHl1R:^1`z`^YiSn<eL:M1
+R6
+32
+Z32 !s110 1699280646
+!i10b 1
+Z33 !s108 1699280646.000000
+Z34 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux41.vhd|
+!s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux41.vhd|
+!i113 1
+R11
+R12
+Aar_tbmux41
+R21
+R2
+R3
+DEx4 work 7 tbmux41 0 22 V??FMOzo_XJKEY3^=HR?O0
+!i122 13
+l17
+L10 20
+V;PBk:bz6X]NZA5VAeS4S@1
+!s100 6dNo9bLX`Le4H>9GEb;nn0
+R6
+32
+R32
+!i10b 1
+R33
+R34
+Z35 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ejercicio_multiplexor/tbmux41.vhd|
+!i113 1
+R11
+R12

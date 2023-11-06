@@ -1,0 +1,178 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador
+Esum2bits
+Z1 w1698920010
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 15
+R0
+Z4 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum2bitscompleto.vhd
+Z5 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum2bitscompleto.vhd
+l0
+L6 1
+VDHH_fb2;LZ27248k1CZ_^2
+!s100 VL>0f7:MI1=W=VQA`e<0K2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1698920013
+!i10b 1
+Z8 !s108 1698920013.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum2bitscompleto.vhd|
+Z10 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum2bitscompleto.vhd|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Aar_sum2bits
+R2
+R3
+Z13 DEx4 work 8 sum2bits 0 22 DHH_fb2;LZ27248k1CZ_^2
+!i122 15
+l20
+L16 11
+VTCdPk;i_EWCcXnjEcDM_J1
+!s100 2m6b?8<XfXJkSPaVZ>EPC1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum4bits
+Z14 w1699272258
+R2
+R3
+!i122 19
+R0
+Z15 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum4bits.vhd
+Z16 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum4bits.vhd
+l0
+L5 1
+VI`TSVc?Zc8:;ML]VmCK7Y1
+!s100 M;5SH6]9X3kIFVCgFn5mP2
+R6
+32
+Z17 !s110 1699272263
+!i10b 1
+Z18 !s108 1699272263.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum4bits.vhd|
+Z20 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/sum4bits.vhd|
+!i113 1
+R11
+R12
+Aar_sum4bits
+R13
+R2
+R3
+Z21 DEx4 work 8 sum4bits 0 22 I`TSVc?Zc8:;ML]VmCK7Y1
+!i122 19
+l26
+L22 12
+VJmOdQjmbgnj5V:MBo<i:U3
+!s100 6;?O@B8<PSeeA>Sb?:LCG0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Etb_sum4bits
+Z22 w1699273113
+R2
+R3
+!i122 26
+R0
+Z23 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/TBsum4bits.vhd
+Z24 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/TBsum4bits.vhd
+l0
+L6 1
+V@RXgzHn[CI83W7XM9]HgS1
+!s100 ?CKWMkOM3=D;agQXheUPM1
+R6
+32
+Z25 !s110 1699273120
+!i10b 1
+Z26 !s108 1699273120.000000
+Z27 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/TBsum4bits.vhd|
+Z28 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/TBsum4bits.vhd|
+!i113 1
+R11
+R12
+Aar_tb_sum4bits
+R21
+R2
+R3
+Z29 DEx4 work 11 tb_sum4bits 0 22 @RXgzHn[CI83W7XM9]HgS1
+!i122 26
+l18
+Z30 L11 25
+V0^:lOXODDijgP]4Jb7j2?1
+!s100 1`WaDol<X_ViaIfc_O`?I3
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R11
+R12
+Etbsum2bits
+Z31 w1698920065
+R2
+R3
+!i122 17
+R0
+Z32 8C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/tbsum2bits.vhd
+Z33 FC:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/tbsum2bits.vhd
+l0
+L5 1
+VBD81b]Tghf4n8jaXn5CRa2
+!s100 nD66WK?HlT@a<jI[Sgkl<3
+R6
+32
+Z34 !s110 1698920069
+!i10b 1
+Z35 !s108 1698920069.000000
+Z36 !s90 -reportprogress|300|-work|work|C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/tbsum2bits.vhd|
+Z37 !s107 C:/Universidad/Programaciones/Mis_practicasVHDL/ejercicios/ej_Sumador/tbsum2bits.vhd|
+!i113 1
+R11
+R12
+Aartbsum2bits
+R13
+R2
+R3
+DEx4 work 10 tbsum2bits 0 22 BD81b]Tghf4n8jaXn5CRa2
+!i122 17
+l20
+L10 22
+Vl9NZdOlo6h9?`ZNf@_8`C1
+!s100 6Pn[AQ1PG`ZN[XRga`=?20
+R6
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R11
+R12

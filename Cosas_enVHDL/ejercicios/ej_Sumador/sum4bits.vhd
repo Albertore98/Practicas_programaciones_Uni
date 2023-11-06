@@ -1,0 +1,33 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity sum4bits is port(
+
+INA :  in std_logic_vector(3 downto 0);
+
+INB :  in std_logic_vector (3 downto 0);
+
+CIN  : in std_logic;
+
+INAO : out std_logic_vector (3 downto 0);
+
+COUT : out std_logic);
+
+
+end sum4bits;
+
+
+
+architecture ar_sum4bits of sum4bits is 
+
+Signal temp1,temp2,temp3:std_logic;
+
+begin
+
+sum0 : entity work.sum2bits port map (S0=>INA(0),S1=>INB(0),CI=>CIN,RES=>INAO(0),CO=>temp1);
+sum1 : entity work.sum2bits port map (S0=>INA(1),S1=>INB(1),CI=>temp1,RES=>INAO(1),CO=>temp2);
+sum2 : entity work.sum2bits port map (S0=>INA(2),S1=>INB(2),CI=>temp2,RES=>INAO(2),CO=>temp3);
+sum3 : entity work.sum2bits port map (S0=>INA(3),S1=>INB(3),CI=>temp3,RES=>INAO(3),CO=>COUT);
+
+end ar_sum4bits;
