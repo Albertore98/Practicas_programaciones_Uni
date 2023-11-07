@@ -1,1 +1,1 @@
-## Aqui encontremos aquello relacionado con las prácticas de VHDL, 
+## Aqui encontraremos aquello relacionado con las prácticas de VHDL, 
